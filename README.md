@@ -1,4 +1,4 @@
-# Simple Rule-Based Chatbot
+# AI-Chatbot
 
 A simple rule-based Python chatbot that demonstrates core programming concepts: control flow, conditional logic, and interactive loops.
 
